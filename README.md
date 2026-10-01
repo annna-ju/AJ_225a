@@ -1,6 +1,6 @@
 # Anna Ju
 
-edited
+editeding main
 
 This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
