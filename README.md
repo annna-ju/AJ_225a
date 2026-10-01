@@ -1,6 +1,6 @@
 # Anna Ju
 
-This is my repo for BMS 22A - Data Science. My work is organized as follows:
+This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
 - 'code' All sctips used in analysis
 
