@@ -1,4 +1,4 @@
-# AJ_225a
+# Anna Ju
 
 This is my repo for BMS 22A - Data Science. My work is organized as follows:
 
